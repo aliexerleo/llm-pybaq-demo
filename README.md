@@ -20,6 +20,18 @@ Linux. open terminal and running the following command line.
   curl -fsSL https://ollama.com/install.sh | sh
   ollama run llama2
 ```
+
+Now, you can test the Llama2 model.
+
+```bash
+  >>> Send a message (/? for help)
+```
+For closed the interaction with the model type the command  /bye
+
+```bash
+  >>> /bye
+```
+
 MacOS. You must be download the binary file.
 
 Official Ollama website https://ollama.com/download/mac
@@ -30,6 +42,16 @@ open terminal in your Mac and running the following command line.
 
 ```bash
   ollama run llama2
+```
+Now, you can test the Llama2 model.
+
+```bash
+  >>> Send a message (/? for help)
+```
+For closed the interaction with the model type the command  /bye
+
+```bash
+  >>> /bye
 ```
 
 ## Running llm app 
