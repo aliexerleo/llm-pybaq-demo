@@ -82,9 +82,6 @@ open your browser with http://localhost:8501/
 
 [intro to NLP](https://www.youtube.com/watch?v=RkYuH_K7Fx4&list=RDCMUCy5znSnfMsDwaLlROnZ7Qbgindex=2)
 
-
-
-
-
+[Extra](https://www.youtube.com/watch?v=uK3tDlzbcTI)
 
 
