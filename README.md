@@ -78,6 +78,10 @@ open your browser with http://localhost:8501/
 
 [LangChain](https://python.langchain.com/docs/integrations/llms/ollama/)
 
+[Architecture](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai)
+
+[intro to NLP](https://www.youtube.com/watch?v=RkYuH_K7Fx4&list=RDCMUCy5znSnfMsDwaLlROnZ7Qbgindex=2)
+
 
 
 
